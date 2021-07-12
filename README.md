@@ -1,3 +1,2 @@
 # covid-tracker
-
-COVID-19 Tracker to track live cases worldwide.
+covid tracker is web application to track live covid-19 cases worldwide
